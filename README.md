@@ -6,3 +6,6 @@
 
 ## Projects
 ### - [Project 1](https://github.com/cpe202Winter2022/p1-ishaansathaye)
+
+## Notes
+### - [Lecture 1 and 2 - Unittest and Equality Function in Classes](unittesting_equality.ipynb)
