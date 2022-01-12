@@ -10,3 +10,4 @@
 ## Notes
 ### - [Lecture 1 and 2 - Unittest and Equality Function in Classes](unittesting_equality.ipynb)
 ### - [Lecture 3 - Recursion](recursion.ipynb)
+### - [Lecture 4 - Analysis of Algorithms](analysis_algorithms.ipynb)
