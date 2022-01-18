@@ -4,11 +4,14 @@
 ### - [Lab 0](https://github.com/cpe202Winter2022/lab0-ishaansathaye)
 ### - [Lab 1](https://github.com/cpe202Winter2022/lab1-ishaansathaye)
 ### - [Lab 2](https://github.com/cpe202Winter2022/lab2-ishaansathaye)
+### - [Lab 2](https://github.com/cpe202Winter2022/lab3-ishaansathaye)
 
 ## Projects
 ### - [Project 1](https://github.com/cpe202Winter2022/p1-ishaansathaye)
+### - [Project 2](https://github.com/cpe202Winter2022/p2-ishaansathaye)
 
 ## Notes
 ### - [Lecture 1 and 2 - Unittest and Equality Function in Classes](unittesting_equality.ipynb)
 ### - [Lecture 3 - Recursion](recursion.ipynb)
 ### - [Lecture 4 - Analysis of Algorithms](analysis_algorithms.ipynb)
+### - [Lecture 5 - ADT Stack](adt_stack.ipynb)
