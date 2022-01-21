@@ -15,3 +15,6 @@
 ### - [Lecture 3 - Recursion](recursion.ipynb)
 ### - [Lecture 4 - Analysis of Algorithms](analysis_algorithms.ipynb)
 ### - [Lecture 5 - ADT Stack](adt_stack.ipynb)
+### - [Lecture 6 - ADT Stack](adt_queue.ipynb)
+### - [Lecture 7 - ADT Stack](adt_list.ipynb)
+### - [Lecture 8 - ADT Stack](doubly_linked_list.ipynb)
