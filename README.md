@@ -5,6 +5,7 @@
 ### - [Lab 1](https://github.com/cpe202Winter2022/lab1-ishaansathaye)
 ### - [Lab 2](https://github.com/cpe202Winter2022/lab2-ishaansathaye)
 ### - [Lab 3](https://github.com/cpe202Winter2022/lab3-ishaansathaye)
+### - [Lab 4](https://github.com/cpe202Winter2022/lab4-ishaansathaye)
 
 ## Projects
 ### - [Project 1](https://github.com/cpe202Winter2022/p1-ishaansathaye)
