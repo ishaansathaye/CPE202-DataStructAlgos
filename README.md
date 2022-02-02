@@ -21,3 +21,4 @@
 ### - [Lecture 7 - ADT Stack](adt_list.ipynb)
 ### - [Lecture 8 - ADT Stack](doubly_linked_list.ipynb)
 ### - [Lecture 9 - Binary Tree](tree.ipynb)
+### - [Lecture 10 - Sorting Algorithms](sorting.ipynb)
