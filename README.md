@@ -20,4 +20,4 @@
 ### - [Lecture 6 - ADT Stack](adt_queue.ipynb)
 ### - [Lecture 7 - ADT Stack](adt_list.ipynb)
 ### - [Lecture 8 - ADT Stack](doubly_linked_list.ipynb)
-### - [Lecture 9 - Binary Tree](binary_tree.ipynb)
+### - [Lecture 9 - Binary Tree](tree.ipynb)
