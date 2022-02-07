@@ -7,6 +7,7 @@
 ### - [Lab 3](https://github.com/cpe202Winter2022/lab3-ishaansathaye)
 ### - [Lab 4](https://github.com/cpe202Winter2022/lab4-ishaansathaye)
 ### - [Lab 5](https://github.com/cpe202Winter2022/lab5-ishaansathaye)
+### - [Lab 6](https://github.com/cpe202Winter2022/lab6-ishaansathaye) --> use random.seed for same number of random numbers
 
 ## Projects
 ### - [Project 1](https://github.com/cpe202Winter2022/p1-ishaansathaye)
