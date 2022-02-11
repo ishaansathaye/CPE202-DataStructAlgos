@@ -7,11 +7,12 @@
 ### - [Lab 3](https://github.com/cpe202Winter2022/lab3-ishaansathaye)
 ### - [Lab 4](https://github.com/cpe202Winter2022/lab4-ishaansathaye)
 ### - [Lab 5](https://github.com/cpe202Winter2022/lab5-ishaansathaye)
-### - [Lab 6](https://github.com/cpe202Winter2022/lab6-ishaansathaye) --> use random.seed for same number of random numbers
+### - [Lab 6](https://github.com/cpe202Winter2022/lab6-ishaansathaye)
 
 ## Projects
 ### - [Project 1](https://github.com/cpe202Winter2022/p1-ishaansathaye)
 ### - [Project 2](https://github.com/cpe202Winter2022/p2-ishaansathaye)
+### - [Project 3](https://github.com/cpe202Winter2022/p3-ishaansathaye)
 
 ## Notes
 ### - [Lecture 1 and 2 - Unittest and Equality Function in Classes](unittesting_equality.ipynb)
