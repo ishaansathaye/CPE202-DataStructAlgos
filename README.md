@@ -30,3 +30,4 @@
 ### [Lecture 11 - Time Estimations](time_estimations.ipynb)
 ### [Lecture 12 - Priority Queue and Binary Heap](priority_queue.ipynb)
 ### [Lecture 13 - Hash Tables](hash_tables.ipynb)
+### [Lecture 14 - Hash Tables](graphs_tsort.ipynb)
