@@ -32,3 +32,4 @@
 ### [Lecture 13 - Hash Tables](hash_tables.ipynb)
 ### [Lecture 14 - Graphs and T Sort](graphs_tsort.ipynb)
 ### [Lecture 15 - Graph Traversals](graph_traversal.ipynb)
+### [Lecture 16 - Red Black Trees](red_black_trees.ipynb)
