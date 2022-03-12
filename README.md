@@ -10,8 +10,8 @@
 ### [Lab 6](https://github.com/cpe202Winter2022/lab6-ishaansathaye)
 ### [Lab 7](https://github.com/cpe202Winter2022/lab7-ishaansathaye)
 ### [Lab 8](https://github.com/cpe202Winter2022/lab8-ishaansathaye)
-### [Lab 9 Assignment](hhttp://users.csc.calpoly.edu/~grader-ph/202/labs/lab09/lab09.pdf)
-- [Google Document]()
+### [Lab 9 Assignment](http://users.csc.calpoly.edu/~grader-ph/202/labs/lab09/lab09.pdf)
+- [Word Document](https://cpslo-my.sharepoint.com/:w:/r/personal/isathaye_calpoly_edu/Documents/First%20Year/Winter%20Quarter/CPE%20202%20%20-%20Data%20Structures%20and%20Algorithms/Lab%209%20Writeup.docx?d=w22034059047d4aa8a908baa4c5e2f837&csf=1&web=1&e=SqTYpa)
 ---
 ## Projects
 ### [Project 1](https://github.com/cpe202Winter2022/p1-ishaansathaye)
